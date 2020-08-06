@@ -1,0 +1,21 @@
+[Unit]
+Description=matematika.net
+
+Requires=docker.service
+After=docker.service
+
+[Service]
+
+Restart=always
+TimeoutStartSec=0
+ExecStartPre=-/usr/bin/docker kill matematika.net
+ExecStartPre=-/usr/bin/docker rm matematika.net
+ExecStartPre=-/usr/bin/docker pull marley/matematika.net:latest
+ExecStart=/bin/sh -c '/usr/bin/docker run --name matematika.net   \
+ -p 4019:80                        \
+ marley/matematika.net'
+ExecStop=-/usr/bin/docker kill matematika.net
+ExecStop=-/usr/bin/docker rm matematika.net
+
+[Install]
+WantedBy=multi-user.target
