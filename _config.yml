@@ -1,7 +1,7 @@
 # Site settings
 title: matematika.net
-description: Математика - изучаем предмет применительно к современным потребностям в программировании и анализе данных
-keywords: Математика, Статистика, Теория вероятности, Программирование, Machine Learning, Deep Learning, Reinforcement Learning, BigData, Hadoop, Spark, Kafka, BlockChain, IoT
+description: We are trying to study and find materials about mathematics, statistics, machine learning, deep learing, BigData
+keywords: Math, Mathematics, Statistics, Probability, Development, Data Analysis, Machine Learning, Deep Learning, BigData, Hadoop, Spark, Kafka, BlockChain, IoT
 
 baseurl: '' # the subpath of your site, e.g. /blog/
 url: 'https://matematika.net' # the base hostname & protocol for your site
