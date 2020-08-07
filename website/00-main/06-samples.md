@@ -13,5 +13,5 @@ permalink: /samples/
 **Application:**  
 https://github.com/IBM/MAX-Breast-Cancer-Mitosis-Detector.git
 
-**Try on run in cloud for free:**
+**Try on run in cloud for free:**  
 https://www.katacoda.com/javajon/courses/kubernetes-pipelines/registries
