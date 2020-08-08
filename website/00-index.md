@@ -27,6 +27,18 @@ Our main website is on <a href="//matematika.org">russian language</a>. If you k
 
 <br/>
 
+### Install Anaconda Windows
+
+https://www.youtube.com/watch?v=a7Ylbn1ikF0&t=2s
+
+<br/>
+
+### Install Anaconda MacOS
+
+https://www.youtube.com/watch?v=2JeoNlCcLOM
+
+<br/>
+
 ### [Derek Banas] NumPy Tutorial 2020
 
 https://www.youtube.com/watch?v=8Y0qQEh7dJg
