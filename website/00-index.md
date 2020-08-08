@@ -27,6 +27,12 @@ Our main website is on <a href="//matematika.org">russian language</a>. If you k
 
 <br/>
 
+### [Derek Banas] NumPy Tutorial 2020
+
+https://www.youtube.com/watch?v=8Y0qQEh7dJg
+
+<br/>
+
 ### [Derek Banas] Statistics Tutorial
 
 <div align="center">
