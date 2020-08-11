@@ -6,34 +6,25 @@ permalink: /
 
 # Matematika
 
-<br/>
+## Here we planning to collect materials about mathematics, statistics, probability
 
-### Hello, \${userName}!
-
-My name is Marley (nickname) and I am website administrator.
-I am from Russia and english is not my native language. (You can help me to correct my english grammar mistakes). Matematika on russian language mean mathematics in english.
-
-If you planning to study DataScience, BigData, BlockChain, IoT, matchematic, statistic ... etc., I hope this website can help you (In the future). You can join to our telegram discussing group and share your experience and interesting samples (no piracy). And i will add materials on website. Or you can do it by yourself if you have development skills (knowlege how to work with github).
+MachineLearning, DeepLearning, BigData etc.
 
 <br/>
 
-For now I'm study materials about hyperledger from video course [Rajeev Sakhuja] Mastering Hyperledger Chaincode Development using GoLang [ENG, 2019, Latest updates 16/06/2020].
+### [Derek Banas] Learn Algebra
 
-If you will interesting in hyperledger, I do not recommend watch materials about hyperledger composer and hyperledger fabril with version less than 2.1
-
-<br/>
-
-Our main website is on <a href="//matematika.org">russian language</a>. If you know russian, you can join our russian community group.
+https://www.youtube.com/watch?v=B_WCI_A944E
 
 <br/>
 
-### Install Anaconda Windows
+### [Derek Banas] Install Anaconda Windows
 
-https://www.youtube.com/watch?v=a7Ylbn1ikF0&t=2s
+https://www.youtube.com/watch?v=a7Ylbn1ikF0
 
 <br/>
 
-### Install Anaconda MacOS
+### [Derek Banas] Install Anaconda MacOS
 
 https://www.youtube.com/watch?v=2JeoNlCcLOM
 
