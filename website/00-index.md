@@ -10,6 +10,10 @@ permalink: /
 
 MachineLearning, DeepLearning, BigData etc.
 
+You can offer to us interesting materials in <a href="/chat/">telegram chat</a>.
+
+If you know russian, you can read materials on <a href="//matematika.org">russian language</a>
+
 <br/>
 
 ### [Derek Banas] Learn Algebra
