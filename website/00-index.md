@@ -16,6 +16,16 @@ If you know russian, you can read materials on <a href="//matematika.org">russia
 
 <br/>
 
+### [Tech With Tim] Neural Networks & TensorfFlow Crash Course [ENG, 2020]
+
+<br/>
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/tZt6gRlRcgk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
+
 ### [Derek Banas] Learn Algebra
 
 https://www.youtube.com/watch?v=B_WCI_A944E
